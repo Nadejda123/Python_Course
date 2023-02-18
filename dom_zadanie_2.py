@@ -15,6 +15,6 @@ corabliki = s/6
 if corabliki>1:
     print('Петя и Сережа сделали по = %d' %math.floor(corabliki), 'а Катя сделала %d' %math.floor(corabliki*4))
 else:
-    print('Петя и Сережа ничего не додалали, а Катя сделала = %d'  %math.floor(corabliki*4))
+    print('Петя и Сережа ничего не доделали, а Катя сделала = %d'  %math.floor(corabliki*4))
 
 
